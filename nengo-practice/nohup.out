@@ -1,0 +1,952 @@
+[I 15:17:17.208 NotebookApp] JupyterLab beta preview extension loaded from /root/anaconda3/envs/tacotron/lib/python3.6/site-packages/jupyterlab
+[I 15:17:17.208 NotebookApp] JupyterLab application directory is /root/anaconda3/envs/tacotron/share/jupyter/lab
+[I 15:17:17.217 NotebookApp] Serving notebooks from local directory: /home/test
+[I 15:17:17.217 NotebookApp] 0 active kernels
+[I 15:17:17.217 NotebookApp] The Jupyter Notebook is running at:
+[I 15:17:17.217 NotebookApp] http://shkim:8888/?token=5bea2b18228bf43b5ab7a27a656ce4f0a595993a271ad411
+[I 15:17:17.217 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:17:17.218 NotebookApp] No web browser found: could not locate runnable browser.
+[C 15:17:17.218 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://shkim:8888/?token=5bea2b18228bf43b5ab7a27a656ce4f0a595993a271ad411&token=5bea2b18228bf43b5ab7a27a656ce4f0a595993a271ad411
+[I 15:17:31.525 NotebookApp] 302 GET /?token=5bea2b18228bf43b5ab7a27a656ce4f0a595993a271ad411&token=5bea2b18228bf43b5ab7a27a656ce4f0a595993a271ad411 (1.224.169.104) 0.93ms
+[W 15:17:37.394 NotebookApp] Notebook wav_to_neuron_spike_network.ipynb is not trusted
+[I 15:17:38.146 NotebookApp] Kernel started: 74bd2f98-65cc-4dd5-be5b-0204811da8df
+[I 15:17:38.852 NotebookApp] Adapting to protocol v5.1 for kernel 74bd2f98-65cc-4dd5-be5b-0204811da8df
+[I 15:19:38.507 NotebookApp] Saving file at /wav_to_neuron_spike_network.ipynb
+[W 15:19:38.508 NotebookApp] Notebook wav_to_neuron_spike_network.ipynb is not trusted
+[I 15:21:38.328 NotebookApp] Saving file at /wav_to_neuron_spike_network.ipynb
+[I 16:38:25.469 NotebookApp] Creating new notebook in 
+[I 16:38:26.306 NotebookApp] Kernel started: 6d4ad9db-0cf4-4440-b6f7-623d08890841
+[I 16:38:26.996 NotebookApp] Adapting to protocol v5.1 for kernel 6d4ad9db-0cf4-4440-b6f7-623d08890841
+[I 16:40:26.316 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:42:27.193 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:46:26.996 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:48:26.664 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:52:27.630 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:53:38.957 NotebookApp] 302 GET / (1.224.169.104) 0.77ms
+[I 16:53:43.272 NotebookApp] Creating new notebook in 
+[I 16:53:44.119 NotebookApp] Kernel started: 0517d5e4-15bd-417d-8384-05bc436a9125
+[I 16:53:44.795 NotebookApp] Adapting to protocol v5.1 for kernel 0517d5e4-15bd-417d-8384-05bc436a9125
+[I 16:55:44.131 NotebookApp] Saving file at /Untitled6.ipynb
+[I 17:05:38.905 NotebookApp] Starting buffering for 0517d5e4-15bd-417d-8384-05bc436a9125:3aa64cb3a89648188fab6476b11b9437
+[I 17:05:44.001 NotebookApp] Kernel shutdown: 0517d5e4-15bd-417d-8384-05bc436a9125
+[W 17:05:44.004 NotebookApp] delete /Untitled6.ipynb
+[W 17:05:44.004 NotebookApp] Skipping trash for /home/test/Untitled6.ipynb, on different device to home directory
+[W 17:05:45.567 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 17:05:45.823 NotebookApp] Kernel started: f891d3c2-0e25-4c88-822c-33c323c2e963
+[I 17:05:46.497 NotebookApp] Adapting to protocol v5.1 for kernel f891d3c2-0e25-4c88-822c-33c323c2e963
+[I 17:05:51.164 NotebookApp] Starting buffering for f891d3c2-0e25-4c88-822c-33c323c2e963:87e511dc4a0f4bb08a30fab0c4e3b087
+[W 17:05:52.436 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 17:05:53.049 NotebookApp] Kernel started: 51d99e1d-f9d6-4c8b-ae7d-8c90a9851db9
+[I 17:05:53.784 NotebookApp] Adapting to protocol v5.1 for kernel 51d99e1d-f9d6-4c8b-ae7d-8c90a9851db9
+[I 17:05:57.358 NotebookApp] Starting buffering for 51d99e1d-f9d6-4c8b-ae7d-8c90a9851db9:4dc003239c864d978e3ecec41369c71d
+[W 17:06:01.519 NotebookApp] delete /Untitled1.ipynb
+[W 17:06:01.519 NotebookApp] Skipping trash for /home/test/Untitled1.ipynb, on different device to home directory
+[W 17:06:02.716 NotebookApp] Notebook Untitled2.ipynb is not trusted
+[I 17:06:03.448 NotebookApp] Kernel started: 3d1c38f1-9ade-46ff-9c77-33778681e7d0
+[I 17:06:04.100 NotebookApp] Adapting to protocol v5.1 for kernel 3d1c38f1-9ade-46ff-9c77-33778681e7d0
+[I 17:06:08.318 NotebookApp] Starting buffering for 3d1c38f1-9ade-46ff-9c77-33778681e7d0:e74a047cfd6341ba890f5f2b866cad8c
+[I 17:06:11.323 NotebookApp] Kernel shutdown: 3d1c38f1-9ade-46ff-9c77-33778681e7d0
+[W 17:06:11.326 NotebookApp] delete /Untitled2.ipynb
+[W 17:06:11.326 NotebookApp] Skipping trash for /home/test/Untitled2.ipynb, on different device to home directory
+[W 17:06:12.511 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 17:06:12.647 NotebookApp] Kernel started: 038a42e4-f6f4-43b2-90e7-e47e838c298c
+[I 17:06:13.398 NotebookApp] Adapting to protocol v5.1 for kernel 038a42e4-f6f4-43b2-90e7-e47e838c298c
+[I 17:06:17.712 NotebookApp] Starting buffering for 038a42e4-f6f4-43b2-90e7-e47e838c298c:04a39109453b4d5a8e24a4ebdd24e8e7
+[I 17:06:21.342 NotebookApp] Kernel shutdown: f891d3c2-0e25-4c88-822c-33c323c2e963
+[I 17:06:24.127 NotebookApp] Kernel shutdown: 038a42e4-f6f4-43b2-90e7-e47e838c298c
+[W 17:06:25.379 NotebookApp] Notebook Untitled4.ipynb is not trusted
+[I 17:06:25.763 NotebookApp] Kernel started: 191aff9c-2e7d-4b60-90bd-675d49d4fc10
+[I 17:06:26.411 NotebookApp] Adapting to protocol v5.1 for kernel 191aff9c-2e7d-4b60-90bd-675d49d4fc10
+[I 17:06:35.955 NotebookApp] Starting buffering for 191aff9c-2e7d-4b60-90bd-675d49d4fc10:265499f08acb48f686ca27d5ec15719b
+[I 17:06:38.024 NotebookApp] Kernel shutdown: 191aff9c-2e7d-4b60-90bd-675d49d4fc10
+[I 17:06:40.332 NotebookApp] Adapting to protocol v5.1 for kernel 6d4ad9db-0cf4-4440-b6f7-623d08890841
+[I 17:08:27.260 NotebookApp] Saving file at /Untitled5.ipynb
+[I 17:12:26.482 NotebookApp] Saving file at /Untitled5.ipynb
+[I 17:14:27.175 NotebookApp] Saving file at /Untitled5.ipynb
+[I 17:16:26.705 NotebookApp] Saving file at /Untitled5.ipynb
+[I 17:17:31.565 NotebookApp] Starting buffering for 6d4ad9db-0cf4-4440-b6f7-623d08890841:3b286e025cb94287bee92f669090e89d
+[I 17:17:52.097 NotebookApp] Starting buffering for 74bd2f98-65cc-4dd5-be5b-0204811da8df:e9fa72819a1d470da369220f014e5f3f
+[I 17:54:30.393 NotebookApp] Creating new notebook in 
+[I 17:54:31.140 NotebookApp] Adapting to protocol v5.1 for kernel 51d99e1d-f9d6-4c8b-ae7d-8c90a9851db9
+[I 17:56:31.216 NotebookApp] Saving file at /Untitled1.ipynb
+[I 17:56:40.768 NotebookApp] Kernel shutdown: 51d99e1d-f9d6-4c8b-ae7d-8c90a9851db9
+[W 17:56:40.772 NotebookApp] delete /Untitled1.ipynb
+[W 17:56:40.772 NotebookApp] Skipping trash for /home/test/Untitled1.ipynb, on different device to home directory
+[W 17:56:42.284 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 17:56:42.456 NotebookApp] Kernel started: 38e09dd9-f399-477a-9ea9-e2fb26f84828
+[I 17:56:43.169 NotebookApp] Adapting to protocol v5.1 for kernel 38e09dd9-f399-477a-9ea9-e2fb26f84828
+[I 17:56:44.414 NotebookApp] Starting buffering for 38e09dd9-f399-477a-9ea9-e2fb26f84828:9fb8b9cbd24045d48c748d3ada13a03a
+[W 17:56:46.097 NotebookApp] Notebook Untitled4.ipynb is not trusted
+[I 17:56:46.492 NotebookApp] Kernel started: cb1bcdba-0ef0-4cc4-8c1a-f67ff67b033b
+[I 17:56:47.171 NotebookApp] Adapting to protocol v5.1 for kernel cb1bcdba-0ef0-4cc4-8c1a-f67ff67b033b
+[I 17:56:51.235 NotebookApp] Starting buffering for cb1bcdba-0ef0-4cc4-8c1a-f67ff67b033b:fbfafb1b52384cc18a2d28129af9cd71
+[I 17:56:54.491 NotebookApp] Kernel shutdown: cb1bcdba-0ef0-4cc4-8c1a-f67ff67b033b
+[W 17:56:54.494 NotebookApp] delete /Untitled4.ipynb
+[W 17:56:54.494 NotebookApp] Skipping trash for /home/test/Untitled4.ipynb, on different device to home directory
+[I 17:56:59.230 NotebookApp] Kernel shutdown: 6d4ad9db-0cf4-4440-b6f7-623d08890841
+[I 17:56:59.434 NotebookApp] Kernel shutdown: 38e09dd9-f399-477a-9ea9-e2fb26f84828
+[I 17:57:00.339 NotebookApp] Kernel shutdown: 74bd2f98-65cc-4dd5-be5b-0204811da8df
+[W 08:56:03.920 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:56:04.191 NotebookApp] Kernel started: 67f0755d-a51a-458f-bb87-b12f9c0858cf
+[I 08:56:04.866 NotebookApp] Adapting to protocol v5.1 for kernel 67f0755d-a51a-458f-bb87-b12f9c0858cf
+[I 08:56:10.604 NotebookApp] Starting buffering for 67f0755d-a51a-458f-bb87-b12f9c0858cf:16d206e5dc3d4752a355d95f81933232
+[I 08:56:14.513 NotebookApp] Kernel shutdown: 67f0755d-a51a-458f-bb87-b12f9c0858cf
+[I 10:34:53.608 NotebookApp] JupyterLab beta preview extension loaded from /root/anaconda3/envs/tacotron/lib/python3.6/site-packages/jupyterlab
+[I 10:34:53.608 NotebookApp] JupyterLab application directory is /root/anaconda3/envs/tacotron/share/jupyter/lab
+[I 10:34:53.614 NotebookApp] Serving notebooks from local directory: /home/test
+[I 10:34:53.614 NotebookApp] 0 active kernels
+[I 10:34:53.614 NotebookApp] The Jupyter Notebook is running at:
+[I 10:34:53.614 NotebookApp] http://shkim:8888/?token=382bc7c533ac459438958edf94cd9adb09c3d5054e35caa1
+[I 10:34:53.614 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:34:53.614 NotebookApp] No web browser found: could not locate runnable browser.
+[C 10:34:53.614 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://shkim:8888/?token=382bc7c533ac459438958edf94cd9adb09c3d5054e35caa1&token=382bc7c533ac459438958edf94cd9adb09c3d5054e35caa1
+[I 10:35:05.183 NotebookApp] 302 GET /?token=382bc7c533ac459438958edf94cd9adb09c3d5054e35caa1&token=382bc7c533ac459438958edf94cd9adb09c3d5054e35caa1 (1.224.169.104) 0.78ms
+[I 11:30:18.760 NotebookApp] Kernel started: a0090752-93a3-46d5-91d4-75ba81b496a9
+[I 11:30:19.405 NotebookApp] Adapting to protocol v5.1 for kernel a0090752-93a3-46d5-91d4-75ba81b496a9
+[I 11:30:22.293 NotebookApp] Starting buffering for a0090752-93a3-46d5-91d4-75ba81b496a9:eaf0de266a5d4bcaa946098818895805
+[I 11:30:24.408 NotebookApp] Kernel shutdown: a0090752-93a3-46d5-91d4-75ba81b496a9
+[I 11:31:50.263 NotebookApp] 302 GET /?token=695e574cd10fd4cee1924df2409f0f08a81b883368c03e0a&token=695e574cd10fd4cee1924df2409f0f08a81b883368c03e0a (1.224.169.104) 0.73ms
+[W 11:31:56.830 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:31:57.477 NotebookApp] Kernel started: b9ab7c71-d59b-47ba-b9d4-903ae077ad71
+[I 11:31:58.225 NotebookApp] Adapting to protocol v5.1 for kernel b9ab7c71-d59b-47ba-b9d4-903ae077ad71
+[I 11:32:54.623 NotebookApp] Kernel started: ab7935bf-95ef-4f8b-9de6-171a879bc9cf
+[I 11:32:55.300 NotebookApp] Adapting to protocol v5.1 for kernel ab7935bf-95ef-4f8b-9de6-171a879bc9cf
+[I 11:33:03.329 NotebookApp] Starting buffering for ab7935bf-95ef-4f8b-9de6-171a879bc9cf:89b6a22944e648cbb3113a8afb963ba4
+[I 11:33:05.409 NotebookApp] Kernel started: 9969e8b2-9d81-4199-b869-a60c9c1819d1
+[I 11:33:06.045 NotebookApp] Adapting to protocol v5.1 for kernel 9969e8b2-9d81-4199-b869-a60c9c1819d1
+[I 11:33:57.847 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:33:57.848 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:35:57.738 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:35:57.738 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:37:57.631 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:37:57.632 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:39:57.613 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:39:57.614 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:41:57.653 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:41:57.654 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:44:22.791 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:44:22.792 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:45:57.613 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:45:57.614 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:47:57.631 NotebookApp] Saving file at /wav_to_neuron_spike.ipynb
+[W 11:47:57.631 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 11:51:44.244 NotebookApp] Starting buffering for b9ab7c71-d59b-47ba-b9d4-903ae077ad71:9a261cb634494711947f59a10f63aa94
+[I 11:51:48.541 NotebookApp] Starting buffering for 9969e8b2-9d81-4199-b869-a60c9c1819d1:c68568209332495d839cdebe2b173d66
+[I 14:08:55.456 NotebookApp] Kernel shutdown: b9ab7c71-d59b-47ba-b9d4-903ae077ad71
+[I 14:08:55.659 NotebookApp] Kernel shutdown: ab7935bf-95ef-4f8b-9de6-171a879bc9cf
+[W 14:08:58.400 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 14:08:58.660 NotebookApp] Kernel started: 1067207d-ca57-43fe-9219-f1a9f3e03420
+[I 14:08:59.366 NotebookApp] Adapting to protocol v5.1 for kernel 1067207d-ca57-43fe-9219-f1a9f3e03420
+[I 14:09:07.605 NotebookApp] Starting buffering for 1067207d-ca57-43fe-9219-f1a9f3e03420:8f3a9245d28547b08f4413bfe987f5dc
+[W 14:09:10.309 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 14:09:10.550 NotebookApp] Adapting to protocol v5.1 for kernel 1067207d-ca57-43fe-9219-f1a9f3e03420
+[I 14:09:20.538 NotebookApp] Starting buffering for 1067207d-ca57-43fe-9219-f1a9f3e03420:2d6e14cee4f54f18929fcde491081afd
+[I 14:09:23.113 NotebookApp] Kernel shutdown: 1067207d-ca57-43fe-9219-f1a9f3e03420
+[W 14:09:23.115 NotebookApp] delete /Untitled3.ipynb
+[W 14:09:23.115 NotebookApp] Skipping trash for /home/test/Untitled3.ipynb, on different device to home directory
+[W 14:09:27.408 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 14:09:27.634 NotebookApp] Kernel started: f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0
+[I 14:09:28.335 NotebookApp] Adapting to protocol v5.1 for kernel f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0
+[I 14:09:33.472 NotebookApp] Starting buffering for f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0:6e6b52ee59bf46d68d23694f06e30f23
+[W 14:09:36.341 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 14:09:36.571 NotebookApp] Adapting to protocol v5.1 for kernel f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0
+[I 14:10:36.013 NotebookApp] Starting buffering for f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0:7a58353faf08488081c49ffa051e914a
+[W 14:10:41.905 NotebookApp] Notebook autoencoder2.ipynb is not trusted
+[I 14:10:42.537 NotebookApp] Adapting to protocol v5.1 for kernel f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0
+[I 14:10:50.370 NotebookApp] Starting buffering for f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0:7b1db5a702194414b040db361257454a
+[I 14:10:53.864 NotebookApp] Kernel shutdown: f4a01f21-f394-4b3e-9a2a-4ed7165ca5f0
+[I 15:50:36.635 NotebookApp] Adapting to protocol v5.1 for kernel 9969e8b2-9d81-4199-b869-a60c9c1819d1
+[I 15:57:31.634 NotebookApp] Copying wav_to_neuron_spike_network.ipynb to 
+[I 15:58:34.691 NotebookApp] Kernel started: 0017011e-8d76-460f-82dc-5787fa4685aa
+[I 15:58:35.414 NotebookApp] Adapting to protocol v5.1 for kernel 0017011e-8d76-460f-82dc-5787fa4685aa
+[I 16:00:34.840 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:02:35.481 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:06:35.976 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:08:34.829 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:42:34.850 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:48:14.440 NotebookApp] Starting buffering for 0017011e-8d76-460f-82dc-5787fa4685aa:cbd2837b72b840dd9297d34bb82cd48a
+[I 16:48:19.137 NotebookApp] Kernel shutdown: 9969e8b2-9d81-4199-b869-a60c9c1819d1
+[I 16:48:19.743 NotebookApp] Kernel shutdown: 0017011e-8d76-460f-82dc-5787fa4685aa
+[I 16:48:21.619 NotebookApp] Kernel started: 8464cfc1-362c-4b3b-8879-2f90db07e823
+[I 16:48:22.316 NotebookApp] Adapting to protocol v5.1 for kernel 8464cfc1-362c-4b3b-8879-2f90db07e823
+[I 16:48:26.394 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:50:22.480 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 16:51:30.070 NotebookApp] JupyterLab beta preview extension loaded from /root/anaconda3/envs/tacotron/lib/python3.6/site-packages/jupyterlab
+[I 16:51:30.070 NotebookApp] JupyterLab application directory is /root/anaconda3/envs/tacotron/share/jupyter/lab
+[I 16:51:30.075 NotebookApp] Serving notebooks from local directory: /home/test
+[I 16:51:30.075 NotebookApp] 0 active kernels
+[I 16:51:30.075 NotebookApp] The Jupyter Notebook is running at:
+[I 16:51:30.075 NotebookApp] http://shkim:8888/?token=7976d6f4864794324d65ddc6af4b750c7852550cc2068d7f
+[I 16:51:30.075 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:51:30.076 NotebookApp] No web browser found: could not locate runnable browser.
+[C 16:51:30.076 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://shkim:8888/?token=7976d6f4864794324d65ddc6af4b750c7852550cc2068d7f&token=7976d6f4864794324d65ddc6af4b750c7852550cc2068d7f
+[W 16:51:35.365 NotebookApp] 404 GET /api/kernels/8464cfc1-362c-4b3b-8879-2f90db07e823/channels?session_id=0e28f2c547f441f682a88a319e4ca0ac (1.224.169.104): Kernel does not exist: 8464cfc1-362c-4b3b-8879-2f90db07e823
+[W 16:51:35.392 NotebookApp] 404 GET /api/kernels/8464cfc1-362c-4b3b-8879-2f90db07e823/channels?session_id=0e28f2c547f441f682a88a319e4ca0ac (1.224.169.104) 39.63ms referer=None
+[W 16:51:36.353 NotebookApp] 404 GET /api/kernels/9969e8b2-9d81-4199-b869-a60c9c1819d1/channels?session_id=68c78dcea82148358b55baa3ca105d8c (1.224.169.104): Kernel does not exist: 9969e8b2-9d81-4199-b869-a60c9c1819d1
+[W 16:51:36.354 NotebookApp] 404 GET /api/kernels/9969e8b2-9d81-4199-b869-a60c9c1819d1/channels?session_id=68c78dcea82148358b55baa3ca105d8c (1.224.169.104) 2.60ms referer=None
+[I 16:51:46.635 NotebookApp] 302 GET /?token=7976d6f4864794324d65ddc6af4b750c7852550cc2068d7f&token=7976d6f4864794324d65ddc6af4b750c7852550cc2068d7f (1.224.169.104) 0.73ms
+[I 16:51:53.346 NotebookApp] Kernel started: 541f6888-c11b-4ed3-a510-a4837150609f
+[I 16:51:54.005 NotebookApp] Adapting to protocol v5.1 for kernel 541f6888-c11b-4ed3-a510-a4837150609f
+[I 16:53:53.478 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:55:53.839 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:57:10.499 NotebookApp] Kernel started: 9662e015-a168-477e-8868-6a185b0a41f2
+[I 16:57:11.132 NotebookApp] Adapting to protocol v5.1 for kernel 9662e015-a168-477e-8868-6a185b0a41f2
+[I 16:57:53.482 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:59:15.519 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:05:53.470 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:07:53.489 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:09:53.491 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:11:53.858 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:13:53.613 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:15:53.438 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:17:53.479 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:21:14.265 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:21:42.030 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:21:53.434 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:23:53.447 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:25:53.445 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:27:53.437 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 17:33:42.215 NotebookApp] Notebook wav_to_neuron_spike.ipynb is not trusted
+[I 17:33:42.858 NotebookApp] Kernel started: 5bd53593-9563-40b7-b1a8-6a439ddfdd11
+[I 17:33:43.560 NotebookApp] Adapting to protocol v5.1 for kernel 5bd53593-9563-40b7-b1a8-6a439ddfdd11
+[I 17:33:51.822 NotebookApp] Starting buffering for 5bd53593-9563-40b7-b1a8-6a439ddfdd11:7a7ffb937c874c538ffae33109397f45
+[I 17:33:55.164 NotebookApp] Kernel shutdown: 5bd53593-9563-40b7-b1a8-6a439ddfdd11
+[I 17:37:53.415 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:39:53.418 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:41:53.443 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:43:53.438 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:45:53.431 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:47:53.430 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:55:53.432 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:57:53.435 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:58:08.488 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:59:53.432 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:03:50.277 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:05:53.437 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:07:53.536 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:09:53.506 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:11:53.478 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 18:13:53.479 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 09:48:32.748 NotebookApp] Starting buffering for 9662e015-a168-477e-8868-6a185b0a41f2:0785a4ede7e24c6e84a5205e483975fb
+[I 10:10:01.386 NotebookApp] Creating new notebook in 
+[I 10:10:02.103 NotebookApp] Kernel started: cc41973b-35ce-41fd-8055-aed95f51a92e
+[I 10:10:02.813 NotebookApp] Adapting to protocol v5.1 for kernel cc41973b-35ce-41fd-8055-aed95f51a92e
+[I 10:12:02.114 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:16:02.553 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:18:02.501 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:24:02.566 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:26:02.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:28:02.180 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:30:03.178 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:34:02.474 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:36:02.543 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:45:18.699 NotebookApp] Starting buffering for cc41973b-35ce-41fd-8055-aed95f51a92e:8a149800071b4f1fa392d338e20c20dd
+[I 10:45:19.012 NotebookApp] Kernel restarted: cc41973b-35ce-41fd-8055-aed95f51a92e
+[I 10:45:19.665 NotebookApp] Adapting to protocol v5.1 for kernel cc41973b-35ce-41fd-8055-aed95f51a92e
+[I 10:45:19.666 NotebookApp] Restoring connection for cc41973b-35ce-41fd-8055-aed95f51a92e:8a149800071b4f1fa392d338e20c20dd
+[I 10:45:19.666 NotebookApp] Replaying 6 buffered messages
+[I 10:46:02.145 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:47:22.929 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:47:53.600 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:48:02.126 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:48:27.460 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:49:53.600 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:50:02.120 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:52:02.116 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:54:02.116 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:54:32.995 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:55:53.585 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:56:02.119 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:58:02.129 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:02:57.087 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:04:02.136 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:06:02.140 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:08:02.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:10:02.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:12:02.125 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:14:02.267 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:20:02.133 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:02.127 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:07.971 NotebookApp] Starting buffering for cc41973b-35ce-41fd-8055-aed95f51a92e:8a149800071b4f1fa392d338e20c20dd
+[I 11:37:14.395 NotebookApp] Kernel shutdown: cc41973b-35ce-41fd-8055-aed95f51a92e
+[I 11:37:14.599 NotebookApp] Kernel shutdown: 9662e015-a168-477e-8868-6a185b0a41f2
+[I 11:37:17.619 NotebookApp] Adapting to protocol v5.1 for kernel 541f6888-c11b-4ed3-a510-a4837150609f
+[I 13:09:15.974 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:11:17.730 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:13:17.735 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:32:23.071 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:33:17.786 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:35:17.838 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:37:17.879 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:39:17.775 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:41:17.778 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:41:41.229 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:41:52.932 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:42:04.384 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:42:19.733 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:07.579 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:17.768 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:19.188 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:22.486 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:31.997 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:43:51.608 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:44:23.604 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:44:59.507 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:45:07.054 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:45:17.772 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:46:51.329 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:47:17.776 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:47:20.595 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:48:12.699 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:49:17.803 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:50:55.356 NotebookApp] Kernel started: b99a4f3f-4acb-4158-9068-d75df5996927
+[I 13:50:56.007 NotebookApp] Adapting to protocol v5.1 for kernel b99a4f3f-4acb-4158-9068-d75df5996927
+[I 13:51:19.058 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:52:55.508 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 13:53:17.819 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:53:38.557 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:53:52.019 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:55:17.795 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:55:31.445 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:55:58.826 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:56:17.007 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:57:17.783 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 13:57:30.095 NotebookApp] Starting buffering for b99a4f3f-4acb-4158-9068-d75df5996927:d2a741eab17a4e3a886838b3b4d9f7d2
+[I 13:57:30.403 NotebookApp] Kernel restarted: b99a4f3f-4acb-4158-9068-d75df5996927
+[I 13:57:31.111 NotebookApp] Adapting to protocol v5.1 for kernel b99a4f3f-4acb-4158-9068-d75df5996927
+[I 13:57:31.111 NotebookApp] Restoring connection for b99a4f3f-4acb-4158-9068-d75df5996927:d2a741eab17a4e3a886838b3b4d9f7d2
+[I 13:57:31.111 NotebookApp] Replaying 3 buffered messages
+[I 13:58:09.733 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 13:58:55.661 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 14:09:19.005 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:11:18.095 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:11:20.890 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:11:35.768 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:12:20.953 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:13:18.361 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:15:17.820 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:19:17.837 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:21:00.457 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:21:18.070 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:23:17.845 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:25:17.994 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:27:17.908 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:27:23.615 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:28:41.439 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:29:14.659 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:29:17.861 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:31:17.913 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:35:18.895 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:36:46.330 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:36:57.926 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:37:17.911 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:37:40.632 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:38:02.786 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:39:17.858 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:39:48.337 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:40:31.647 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:41:17.940 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:47:17.886 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:49:17.908 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 14:56:55.386 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 14:57:28.457 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 14:58:55.517 NotebookApp] Saving file at /One-hot-neuron.ipynb
+[I 14:59:17.973 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:01:17.897 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:01:21.208 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:03:11.347 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:03:31.538 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:05:17.883 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:06:16.765 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:07:17.934 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:09:17.861 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:09:28.357 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:10:02.715 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:10:51.980 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:10:55.489 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:11:17.874 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:20:48.098 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:21:02.623 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:21:10.390 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:21:17.908 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:21:52.239 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:22:00.968 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:22:44.160 NotebookApp] Starting buffering for b99a4f3f-4acb-4158-9068-d75df5996927:d2a741eab17a4e3a886838b3b4d9f7d2
+[I 15:23:18.389 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:23:56.527 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:24:34.084 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:25:09.922 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:25:17.120 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:26:02.771 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:26:07.414 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:26:24.189 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:27:12.064 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:27:28.327 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:27:40.681 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:28:03.077 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:28:51.992 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:29:17.853 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:29:31.138 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:29:37.319 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:30:03.747 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:30:42.903 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:31:17.862 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:31:54.624 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:33:17.881 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:34:25.705 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:34:50.334 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:35:17.861 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:36:33.225 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:37:28.131 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:38:23.545 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:54:34.604 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:54:47.760 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:55:17.916 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:55:45.552 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:57:17.854 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:57:29.116 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:57:48.641 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:59:03.588 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 15:59:44.590 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:00:03.174 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:00:35.655 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:01:17.832 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:01:24.487 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:02:12.135 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:03:17.868 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:06:22.103 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:06:59.183 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:07:06.901 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:07:18.037 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:09:17.911 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:09:27.024 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:10:10.447 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:10:18.431 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:15:17.902 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:17:18.964 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:17:39.643 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:19:17.854 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:21:17.914 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:21:26.769 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:22:57.408 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:23:13.833 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:24:40.160 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:25:17.991 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:25:21.325 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:26:17.662 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:26:55.571 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:27:13.621 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:27:17.920 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:27:20.824 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:27:45.731 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:28:45.028 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:28:55.656 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:29:17.085 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:30:18.239 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:30:48.139 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:32:22.140 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:33:08.611 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:33:30.566 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:34:00.534 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:34:09.180 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:34:11.619 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:34:50.245 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:35:07.765 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:35:17.919 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:35:39.466 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:36:37.920 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:36:54.008 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:37:17.878 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:41:02.734 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:41:11.173 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:41:17.912 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:42:12.194 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:42:19.593 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:42:28.068 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:42:30.392 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:43:17.901 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:43:32.685 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:43:52.466 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:44:07.840 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:44:51.577 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:45:17.977 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:45:25.258 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:46:07.764 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:47:17.913 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:48:22.307 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:48:38.375 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:49:10.925 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:49:17.839 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:49:38.511 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:49:45.598 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:49:58.274 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:50:49.835 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:51:17.900 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:57:45.086 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:59:17.761 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 16:59:19.168 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:00:02.745 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:00:23.719 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:00:45.338 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:01:00.693 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:01:17.749 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:01:38.441 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:02:09.155 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:02:27.851 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:02:47.030 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:03:17.749 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:03:46.154 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:04:09.494 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:05:17.737 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:06:38.808 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:07:17.730 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:07:38.997 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 17:25:08.853 NotebookApp] Adapting to protocol v5.1 for kernel b99a4f3f-4acb-4158-9068-d75df5996927
+[I 17:25:15.038 NotebookApp] Starting buffering for b99a4f3f-4acb-4158-9068-d75df5996927:cd24f33ddf9b46d9bb7102869db20f77
+[I 17:25:17.409 NotebookApp] Kernel shutdown: b99a4f3f-4acb-4158-9068-d75df5996927
+[I 08:57:20.963 NotebookApp] Starting buffering for 541f6888-c11b-4ed3-a510-a4837150609f:dac63917bdc347448470a0989b9eee31
+[I 10:03:36.169 NotebookApp] 302 GET /?token=695e574cd10fd4cee1924df2409f0f08a81b883368c03e0a&token=695e574cd10fd4cee1924df2409f0f08a81b883368c03e0a (1.224.169.104) 40.14ms
+[I 10:03:41.429 NotebookApp] Adapting to protocol v5.1 for kernel 541f6888-c11b-4ed3-a510-a4837150609f
+[I 10:05:41.708 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 10:06:40.679 NotebookApp] Kernel started: 16b7bf9b-f855-4f23-b5b7-a0a3dae360fe
+[I 10:06:41.536 NotebookApp] Adapting to protocol v5.1 for kernel 16b7bf9b-f855-4f23-b5b7-a0a3dae360fe
+[I 10:06:45.740 NotebookApp] Starting buffering for 541f6888-c11b-4ed3-a510-a4837150609f:96246b8955ba4d4fa228161ff5d1eea0
+[I 10:06:47.950 NotebookApp] Creating new notebook in 
+[I 10:06:48.552 NotebookApp] Kernel started: f020c045-4a3f-43a5-b951-ae28c038efa3
+[I 10:06:49.416 NotebookApp] Adapting to protocol v5.1 for kernel f020c045-4a3f-43a5-b951-ae28c038efa3
+[I 10:08:27.262 NotebookApp] Starting buffering for 16b7bf9b-f855-4f23-b5b7-a0a3dae360fe:6553de702aa4471d92c3e15ad548a307
+[I 10:08:30.370 NotebookApp] Kernel shutdown: 16b7bf9b-f855-4f23-b5b7-a0a3dae360fe
+[I 10:08:36.389 NotebookApp] Kernel started: e1551800-bed6-46a2-8973-4dc61bb3fe49
+[I 10:08:37.119 NotebookApp] Adapting to protocol v5.1 for kernel e1551800-bed6-46a2-8973-4dc61bb3fe49
+[I 10:08:48.576 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:10:48.572 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:11:42.888 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:12:27.232 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:12:48.631 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:12:51.685 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:14:14.956 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:14:33.450 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:14:48.575 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:15:06.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:15:18.007 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:15:35.515 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:15:38.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:16:48.568 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:16:57.131 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:17:05.967 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:17:17.256 NotebookApp] Starting buffering for f020c045-4a3f-43a5-b951-ae28c038efa3:5aeae114c1734a9e807e6030e32a8e70
+[I 10:17:17.563 NotebookApp] Kernel restarted: f020c045-4a3f-43a5-b951-ae28c038efa3
+[I 10:17:18.293 NotebookApp] Adapting to protocol v5.1 for kernel f020c045-4a3f-43a5-b951-ae28c038efa3
+[I 10:17:18.294 NotebookApp] Restoring connection for f020c045-4a3f-43a5-b951-ae28c038efa3:5aeae114c1734a9e807e6030e32a8e70
+[I 10:17:18.294 NotebookApp] Replaying 6 buffered messages
+[I 10:17:41.879 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:18:04.589 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:18:38.137 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:18:48.653 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:19:17.704 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:19:20.099 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:20:48.576 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:48:01.941 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:48:05.807 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:48:48.653 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:50:07.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:50:21.972 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:50:37.070 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:50:48.599 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:51:01.109 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:51:29.595 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:52:48.570 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:54:48.793 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:26:48.680 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:48.996 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:35.589 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:43.681 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:49.001 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:45.392 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:55.125 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:34:48.604 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:34:58.730 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:48.583 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:11.334 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:48.582 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:40:48.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:42:48.614 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:46:48.584 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:31.158 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:48.587 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:26.951 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:43.114 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:45.458 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:48.587 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:52:48.961 NotebookApp] Saving file at /Untitled.ipynb
+[W 12:17:25.699 NotebookApp] WebSocket ping timeout after 108572 ms.
+[I 12:17:25.714 NotebookApp] Starting buffering for e1551800-bed6-46a2-8973-4dc61bb3fe49:251f50dc07c94bec8ed33fe020e35cde
+[I 13:07:28.976 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:08:04.384 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:08:49.076 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:10:15.964 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:10:48.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:39.024 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:12:40.559 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:12:48.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:14:36.809 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:14:38.352 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:14:48.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:16:48.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:17:10.442 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:17:45.188 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:18:09.243 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:18:15.339 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:18:16.440 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:18:48.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:19:13.602 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:20:07.514 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:20:48.915 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:20:48.948 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:21:32.660 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:22:48.638 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:22:58.805 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:24:48.617 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:25:23.130 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:26:39.725 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:26:46.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:27:13.399 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:27:38.499 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:27:40.071 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:28:02.881 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:28:08.258 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:28:48.647 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:29:13.589 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:29:27.395 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:30:22.601 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:31:00.722 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:31:03.976 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:31:26.733 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:31:53.974 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:33:51.821 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:07.338 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:12.786 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:27.214 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:29.995 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:32.664 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:48.615 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:35:22.060 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:36:34.222 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:36:48.615 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:37:18.211 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:37:20.981 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:37:25.935 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:38:12.991 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:38:48.776 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:39:17.885 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:40:05.834 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:40:09.693 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:40:48.721 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:41:08.860 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:41:46.523 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:42:21.463 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:42:48.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:08.039 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:19.008 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:19.569 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:37.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:49.901 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:52.528 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:44:07.691 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:44:48.149 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:44:48.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:00.193 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:16.138 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:19.932 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:31.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:50.685 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:05.021 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:07.027 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:48.618 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:47:02.925 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:47:05.999 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:47:06.896 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:48:24.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:48:48.623 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:47.515 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:52.114 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:40.234 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:43.697 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:48.768 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:52:07.937 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:52:15.765 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:52:29.725 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:52:46.416 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:52:48.658 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:53:05.169 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:53:14.531 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:53:57.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:54:41.034 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:54:48.622 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:55:23.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:56:12.274 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:56:48.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:57:57.117 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:58:06.303 NotebookApp] Kernel interrupted: f020c045-4a3f-43a5-b951-ae28c038efa3
+[I 13:58:08.995 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:58:29.361 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:58:41.236 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:58:50.108 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:59:49.330 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:00:26.544 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:00:33.043 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:00:41.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:00:44.770 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:00:48.624 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:01:47.956 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:00.815 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:07.545 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:24.909 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:27.932 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:48.731 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:52.165 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:02:55.183 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:03:05.860 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:03:09.671 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:04:48.686 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:05:18.393 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:05:18.614 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:06:28.735 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:06:35.527 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:06:48.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:07:19.408 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:07:20.604 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:08:48.750 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:12:37.290 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:12:48.623 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:13:31.907 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:13:36.525 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:13:42.417 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:13:43.595 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:13:50.844 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:14:38.939 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:15:01.374 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:15:28.339 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:15:37.461 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:16:05.225 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:16:48.750 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:17:03.958 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:17:37.270 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:18:32.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:18:48.698 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:26:48.708 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:34:48.795 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:39:22.018 NotebookApp] Starting buffering for f020c045-4a3f-43a5-b951-ae28c038efa3:5aeae114c1734a9e807e6030e32a8e70
+[I 02:41:23.288 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 02:41:23.625 NotebookApp] Serving notebooks from local directory: /data/shkim/workspace/docker_shared/tts/test
+[I 02:41:23.625 NotebookApp] The Jupyter Notebook is running at:
+[I 02:41:23.625 NotebookApp] http://(a333a8add2ea or 127.0.0.1):8888/?token=5da83399d75f6514dd750ae3c1572d1837df4278ec3c48d4
+[I 02:41:23.625 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:41:23.630 NotebookApp] No web browser found: could not locate runnable browser.
+[C 02:41:23.630 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-13653-open.html
+    Or copy and paste one of these URLs:
+        http://(a333a8add2ea or 127.0.0.1):8888/?token=5da83399d75f6514dd750ae3c1572d1837df4278ec3c48d4
+Traceback (most recent call last):
+  File "/usr/local/bin/jupyter-notebook", line 11, in <module>
+    sys.exit(main())
+  File "/usr/local/lib/python3.6/dist-packages/jupyter_core/application.py", line 266, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-7>", line 2, in initialize
+  File "/usr/local/lib/python3.6/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/notebook/notebookapp.py", line 1628, in initialize
+    self.init_webapp()
+  File "/usr/local/lib/python3.6/dist-packages/notebook/notebookapp.py", line 1407, in init_webapp
+    self.http_server.listen(port, self.ip)
+  File "/usr/local/lib/python3.6/dist-packages/tornado/tcpserver.py", line 143, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/lib/python3.6/dist-packages/tornado/netutil.py", line 168, in bind_sockets
+    sock.bind(sockaddr)
+OSError: [Errno 99] Cannot assign requested address
+[I 04:48:19.145 NotebookApp] Serving notebooks from local directory: /data/shkim/workspace/docker_shared/tts/test
+[I 04:48:19.146 NotebookApp] The Jupyter Notebook is running at:
+[I 04:48:19.146 NotebookApp] http://(a333a8add2ea or 127.0.0.1):8888/?token=3bd14765eb08a06a4f9424de05e2c7214f5093f75dc28da2
+[I 04:48:19.146 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:48:19.149 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:48:19.149 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-20-open.html
+    Or copy and paste one of these URLs:
+        http://(a333a8add2ea or 127.0.0.1):8888/?token=3bd14765eb08a06a4f9424de05e2c7214f5093f75dc28da2
+[I 04:56:33.591 NotebookApp] Serving notebooks from local directory: /data/shkim/workspace/docker_shared/tts/test
+[I 04:56:33.591 NotebookApp] The Jupyter Notebook is running at:
+[I 04:56:33.591 NotebookApp] http://(3542124acbfd or 127.0.0.1):8888/?token=86399b5ffe749449efadf616da65549264bb6b5a9afbc101
+[I 04:56:33.591 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:56:33.595 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:56:33.595 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-23-open.html
+    Or copy and paste one of these URLs:
+        http://(3542124acbfd or 127.0.0.1):8888/?token=86399b5ffe749449efadf616da65549264bb6b5a9afbc101
+[I 04:56:47.333 NotebookApp] 302 GET /?token=86399b5ffe749449efadf616da65549264bb6b5a9afbc101 (1.224.169.77) 1.05ms
+[I 04:56:57.292 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 04:56:57.295 NotebookApp] Notebook Supervised_pes??.ipynb is not trusted
+[I 04:56:57.641 NotebookApp] Kernel started: 28cc9935-8051-4b8c-8dbb-b0154182d219
+[I 04:56:58.264 NotebookApp] Adapting to protocol v5.1 for kernel 28cc9935-8051-4b8c-8dbb-b0154182d219
+[I 04:58:57.643 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[W 04:58:57.645 NotebookApp] Notebook Supervised_pes??.ipynb is not trusted
+[I 05:00:57.736 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:01:38.557 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:02:01.652 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:02:57.636 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:04:27.808 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:04:57.969 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:06:16.568 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:06:35.945 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:06:57.640 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:08:44.604 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:08:57.688 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:10:15.623 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:10:57.685 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:12:57.623 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:14:39.966 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:14:45.082 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:14:57.657 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:15:48.133 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[I 05:16:57.634 NotebookApp] Saving file at /Supervised_pes??.ipynb
+[W 05:17:38.091 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:17:38.998 NotebookApp] Kernel started: 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:17:39.543 NotebookApp] Adapting to protocol v5.1 for kernel 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:19:39.631 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 05:19:39.632 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:21:40.328 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 05:21:40.329 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:23:39.893 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 05:23:39.894 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:25:39.253 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 05:25:39.254 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:25:50.858 NotebookApp] Kernel interrupted: 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:25:55.693 NotebookApp] Kernel interrupted: 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:26:07.933 NotebookApp] Starting buffering for 9881b64e-7e79-44e0-ad5b-958e2ea0c108:00408300eb6544dd8e76974a4bb422e7
+[I 05:26:08.544 NotebookApp] Kernel restarted: 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:26:09.176 NotebookApp] Adapting to protocol v5.1 for kernel 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 05:26:09.177 NotebookApp] Restoring connection for 9881b64e-7e79-44e0-ad5b-958e2ea0c108:00408300eb6544dd8e76974a4bb422e7
+[I 05:26:09.178 NotebookApp] Replaying 3 buffered messages
+[I 05:27:39.231 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[W 05:27:39.233 NotebookApp] Notebook wav_to_neuron_spike_network_with_PES.ipynb is not trusted
+[I 05:53:39.695 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:04:08.128 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:05:25.839 NotebookApp] Copying wav_to_neuron_spike_network_with_PES.ipynb to 
+[I 06:05:36.880 NotebookApp] Starting buffering for 9881b64e-7e79-44e0-ad5b-958e2ea0c108:00408300eb6544dd8e76974a4bb422e7
+[I 06:05:37.584 NotebookApp] Kernel shutdown: 9881b64e-7e79-44e0-ad5b-958e2ea0c108
+[I 06:05:42.604 NotebookApp] Kernel started: 8f3a4b9d-fdca-4264-a784-e5f8229dfb92
+[I 06:05:43.265 NotebookApp] Adapting to protocol v5.1 for kernel 8f3a4b9d-fdca-4264-a784-e5f8229dfb92
+[I 06:07:43.306 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:08:46.883 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:09:44.832 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:15:17.490 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:15:44.176 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:17:42.889 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:27:44.135 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:29:42.886 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:35:44.738 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:36:19.252 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:36:35.017 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:37:29.637 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:37:43.791 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:37:49.722 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:38:08.917 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:38:36.795 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:39:44.290 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:40:50.572 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:41:43.703 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:45:42.984 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:47:42.895 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:53:17.716 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:53:43.960 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:55:43.041 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:56:41.433 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:57:32.515 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:57:35.261 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 06:59:42.849 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES-Copy1.ipynb
+[I 07:03:17.888 NotebookApp] Kernel shutdown: 28cc9935-8051-4b8c-8dbb-b0154182d219
+[I 07:03:19.903 NotebookApp] Kernel shutdown: 8f3a4b9d-fdca-4264-a784-e5f8229dfb92
+[I 07:03:21.267 NotebookApp] Creating new notebook in 
+[I 07:03:22.168 NotebookApp] Kernel started: 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:03:22.704 NotebookApp] Adapting to protocol v5.1 for kernel 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:05:22.174 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 07:07:04.656 NotebookApp] Starting buffering for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 07:07:05.267 NotebookApp] Kernel restarted: 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:07:05.834 NotebookApp] Adapting to protocol v5.1 for kernel 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:07:05.836 NotebookApp] Restoring connection for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 07:07:05.836 NotebookApp] Replaying 6 buffered messages
+[I 07:07:22.174 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 07:09:22.181 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 07:11:22.205 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 07:13:22.179 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 07:14:48.102 NotebookApp] Starting buffering for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 07:14:48.813 NotebookApp] Kernel restarted: 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:14:49.346 NotebookApp] Adapting to protocol v5.1 for kernel 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 07:14:49.347 NotebookApp] Restoring connection for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 07:14:49.348 NotebookApp] Replaying 4 buffered messages
+[I 07:15:22.172 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 08:13:59.691 NotebookApp] Starting buffering for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 08:14:00.307 NotebookApp] Kernel restarted: 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 08:14:00.898 NotebookApp] Adapting to protocol v5.1 for kernel 38855db1-0577-4b60-98b9-dad51c4d636e
+[I 08:14:00.899 NotebookApp] Restoring connection for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 08:14:00.899 NotebookApp] Replaying 3 buffered messages
+[I 08:15:22.186 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 08:17:22.191 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 08:27:22.190 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 08:29:22.187 NotebookApp] Saving file at /wav_to_neuron_dl_version.ipynb
+[I 08:55:29.027 NotebookApp] Starting buffering for 38855db1-0577-4b60-98b9-dad51c4d636e:cdaa6ab6fbfb41da82d4b622be95f36e
+[I 06:10:29.491 NotebookApp] Serving notebooks from local directory: /data/shkim/workspace/docker_shared/tts/test
+[I 06:10:29.492 NotebookApp] The Jupyter Notebook is running at:
+[I 06:10:29.492 NotebookApp] http://(cfabbce80bf6 or 127.0.0.1):8888/?token=7ebc739570c2dcdc1260b2f66fed6079e6567c6b18a62a2e
+[I 06:10:29.492 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 06:10:29.496 NotebookApp] No web browser found: could not locate runnable browser.
+[C 06:10:29.496 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-7261-open.html
+    Or copy and paste one of these URLs:
+        http://(cfabbce80bf6 or 127.0.0.1):8888/?token=7ebc739570c2dcdc1260b2f66fed6079e6567c6b18a62a2e
+[I 06:10:41.111 NotebookApp] 302 GET /?token=7ebc739570c2dcdc1260b2f66fed6079e6567c6b18a62a2e (1.224.169.77) 1.14ms
+[I 06:10:42.416 NotebookApp] 302 GET /tree (1.224.169.77) 0.81ms
+[I 06:10:49.780 NotebookApp] Kernel started: 50b65d2b-a000-4178-ab81-a1f365ee5b18
+[I 06:10:50.286 NotebookApp] Adapting to protocol v5.1 for kernel 50b65d2b-a000-4178-ab81-a1f365ee5b18
+[I 06:12:52.221 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:14:51.282 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:16:02.484 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:16:50.042 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:18:50.752 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:19:11.442 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:19:54.580 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:20:50.201 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:21:08.636 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:22:26.162 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:22:29.904 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:22:49.998 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:22:54.723 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:24:02.276 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:24:50.911 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:26:50.003 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:28:49.995 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:30:50.771 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 06:32:50.111 NotebookApp] Saving file at /wav_to_neuron_spike_network_with_PES.ipynb
+[I 08:58:05.079 NotebookApp] Starting buffering for 50b65d2b-a000-4178-ab81-a1f365ee5b18:2a05981a1b854c70810c227aa4d99347
